@@ -11,8 +11,8 @@ Criar uma página web com foco em estrutura visual, organização de conteúdo e
 
 ## Estrutura do projeto
 - `index.html`
-- pasta `CSS`
-- pasta `imagens`
+- folder `CSS`
+- folder `imagens`
 
 ## Funcionalidades
 - Organização em cartões/blocos
