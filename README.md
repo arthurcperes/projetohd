@@ -11,13 +11,14 @@ Criar uma página web com foco em estrutura visual, organização de conteúdo e
 
 ## Estrutura do projeto
 - `index.html`
-- folder `CSS`
-- folder `imagens`
+- pasta `CSS`
+- pasta `imagens`
 
 ## Funcionalidades
-- Organização em cartões/blocos
+- Organização em blocos/cartões
 - Estilização com CSS
-- Base para adaptação responsiva
+- Estrutura de front-end
+- Base de responsividade
 
 ## Observação
 Projeto acadêmico desenvolvido para fins de estudo e prática.
